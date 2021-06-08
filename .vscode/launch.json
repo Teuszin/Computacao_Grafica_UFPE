@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\Mateu\\Documents\\Repositorios do Git\\Computacao_Grafica_UFPE",
+      "environment": [],
+      "program": "c:\\Users\\Mateu\\Documents\\Repositorios do Git\\Computacao_Grafica_UFPE\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\mingw32\\bin\\gdb.exe",
+      "externalConsole": true
+    }
+  ]
+}
